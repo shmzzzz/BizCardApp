@@ -1,5 +1,6 @@
 # BizCardApp
 - ビジネスカード(名刺)アプリ
+  - Jetpack Compose の基本的なUIを使えるようにするために作成
 
 ## 画面仕様
 画面表示時 | Portfolioボタンタップ時
